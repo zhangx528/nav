@@ -17,10 +17,10 @@ const c: IConfig = {
   homeUrl: 'https://zhangxin666.com',
 
   // 网站标题
-  title: '张什么都不懂鑫 - 张什么都不懂鑫的工作常用网站导航',
+  title: '工作导航 - 工作常用网站导航',
 
   // 网站描述
-  description: '张什么都不懂鑫 - 张什么都不懂鑫的工作常用网站导航',
+  description: '张什么都不懂鑫 - 工作常用网站导航',
 
   // 网站关键字
   keywords: '导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js',
