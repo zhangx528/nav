@@ -11,7 +11,7 @@ export const DB_PATH = 'data/db.json'
 
 export const TAG_PATH = 'data/tag.json'
 
-export const LOGO_PATH = 'logo.png'
+export const LOGO_PATH = 'assets/logo.png'
 
 export const LOGO_CDN = getCDN('logo.png')
 

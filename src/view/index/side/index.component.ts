@@ -14,7 +14,7 @@ import {
 } from '../../../utils'
 import { isLogin } from '../../../utils/user'
 import { websiteList } from '../../../store'
-import { LOGO_CDN } from '../../../constants'
+import {LOGO_CDN, LOGO_PATH} from '../../../constants'
 import * as s from '../../../../data/search.json'
 import { NzIconService } from 'ng-zorro-antd/icon'
 
@@ -26,7 +26,7 @@ const searchEngineList: ISearchEngineProps[] = (s as any).default
   styleUrls: ['./index.component.scss']
 })
 export default class SideComponent {
-  LOGO_CDN = LOGO_CDN
+  LOGO_CDN = LOGO_PATH;
   websiteList: INavProps[] = websiteList
   currentList: INavThreeProp[] = []
   id: number = 0
