@@ -17,7 +17,7 @@ const c: IConfig = {
   homeUrl: 'https://zhangxin666.com',
 
   // 网站标题
-  title: '随时导航 - 常用网站导航',
+  title: '随时导航 - 随时导航一下',
 
   // 网站描述
   description: '张什么都不懂鑫 - 工作常用网站导航',
