@@ -17,7 +17,7 @@ const c: IConfig = {
   homeUrl: 'https://zhangxin666.com',
 
   // 网站标题
-  title: '我的导航 - 常用网站导航',
+  title: '随时导航 - 常用网站导航',
 
   // 网站描述
   description: '张什么都不懂鑫 - 工作常用网站导航',
@@ -31,7 +31,7 @@ const c: IConfig = {
   // 网站底部内容, 版权信息、备案号, 可以是 HTML
   footerContent: `
     <div style="font-weight: bold;">共收录\${total}个网站</div>
-    <div>Copyright © 2018-2021 zhangxin666.com, All Rights Reserved</div>
+    <div>Copyright © 2018-2021 zhangxin666.com, All Rights Reserved. <a href="https://beian.miit.gov.cn/" target="_blank">黑ICP备18002861号</a></div>
   `,
 
   // 阿里巴巴矢量图库 https://www.iconfont.cn/
