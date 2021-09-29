@@ -31,7 +31,7 @@ const c: IConfig = {
   // 网站底部内容, 版权信息、备案号, 可以是 HTML
   footerContent: `
     <div style="font-weight: bold;">共收录\${total}个网站</div>
-    <div>Copyright © 2018-2021 zhangxin666.com, All Rights Reserved. <a href="https://beian.miit.gov.cn/" target="_blank" style="color: #666">黑ICP备18002861号</a></div>
+    <div>Copyright © 2018-2021 zhangxin666.com, All Rights Reserved. <a href="https://beian.miit.gov.cn/" target="_blank" style="color: #666">黑ICP备18002861号-1</a></div>
   `,
 
   // 阿里巴巴矢量图库 https://www.iconfont.cn/
